@@ -1,0 +1,7 @@
+DataType 
+
+- There are majorly two types of languages. First one is statically typed language where variable and expression type is already known at compile time. Once a variable is declared to be of a certain data type, it cannot hold values of other data types.
+
+- JavaScript is a dynamically typed ( also called loosely typed) Scripting language. That is in JavaScript variables can receive diiferent data types over time.
+
+DataType are basically typed data that can be used and manupulated in a program.

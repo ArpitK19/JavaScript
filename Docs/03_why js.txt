@@ -1,0 +1,15 @@
+Why to learn JavaScript ?
+
+No need of compilers : since JavaScript is an interpreted languages, therefore it does not need any compiler for 
+compilations.
+
+Used both client and server side : Earlier JavaScript was used to build client side application only, but with the 
+evolution of its framework namely Node.js and Express.js, it is now widely used for building server side application too.
+
+Helps to build a complete solution : as we saw, js is widey used in both client and server side application, therefore it helps us to build an end to end solution to a given problem
+
+used everywhere : js is so loved b'cz it can be used anywhere. it can be used to develop website, games or mobile apps etc.
+
+huge community support : js has huge community of users and mentors who love this language and take it's legacy forward.
+
+
