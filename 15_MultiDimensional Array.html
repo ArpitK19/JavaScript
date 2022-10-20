@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        var a=[
+            ['Arpit',1,'Male'],
+            ['Satyam',1,'Male'],
+            ['Om',1,'Male'],
+            ['Raivesh',1,'Male']];
+            
+        document.write(a.length);
+        document.write("<table border='1px'>")
+        for(var x=0;x<4;x++)
+        {
+            document.write("<tr>")
+            for(var y=0;y<3;y++)
+            {
+                document.write("<td>"+a[x][y]+"</td>")
+            }
+            document.write("<br>")
+            document.write("</tr>")
+        }   
+        document.write("</  table>")
+    </script>
+</body>
+</html>
