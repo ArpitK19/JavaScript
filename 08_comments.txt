@@ -1,3 +1,0 @@
-Comments
-
-Comments are used to prevent the execution of statements. comments are ignored while the compiler execute code. comment are user-friendly as users can get explainantion of code using comments.
