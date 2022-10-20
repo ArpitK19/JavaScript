@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Some & Every</h2>
+
+    <script>
+
+        var x=[10,20,30,18];
+        document.write(x+"<br><br>")
+
+        // var y=x.some(demo);
+        // document.write(y+"<br><br>")
+
+        // function demo(x)
+        // {
+        //     return x>=10;
+        // }
+
+        var y=x.every(demo);
+        document.write(y+"<br><br>")
+
+        function demo(x)
+        {
+            return x>=15;
+        }
+    </script>
+
+
+</body>
+</html>
