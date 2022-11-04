@@ -1,0 +1,39 @@
+How To Target DOM Object?
+
+
+1) ID = document.getElementById(id)
+
+2) Class = document.getElementsByClassName(name)
+
+3) Tag Name = document.getElementsByTagName(TagName)
+
+
+Targeting Methods
+
+1) document
+
+2) document.all
+
+3) document.documentElement
+
+4) document.head
+
+5) dDocument.title
+
+6) document.body
+
+7) document.images
+
+8) document.anchors
+
+9) document.links
+
+10) document.forms
+
+11) document.doctype
+
+12) document.URL
+
+13) document.baseURL
+
+14) document.domain
